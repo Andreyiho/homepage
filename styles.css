@@ -160,6 +160,11 @@ body {
     text-align: center;
     margin-bottom: 15px;
 }
+.skills__header2 {
+    color: var(--secondary-text-color);
+    text-align: left
+    margin-bottom: 15px;
+}
 
 .skills__text {
     color: var(--secondary-text-color);
